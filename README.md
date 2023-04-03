@@ -10,4 +10,4 @@ Saklanan Verileriniz 1A) Komut Kullanılarak Saklanılan Veriler • Kullanıcı
 
 Verilerinizin Korunumu Verileriniz, şifrelenme yöntemiyle, erişime kısıtlı bir veri tabanlarında saklanır. Verilerinizin gizlenimi hakkında bize drizedestek@gmail.com iletişim adresinden elektronik posta gönderebilirsiniz. Verileriniz hakkında bir endişeniz veya sorunuz bulunmaktaysa, bilet oluşturarak yardım alabilirsiniz.
 
-Verilerinizin Silinimi Verilerinizin silinmesi hakkında talep oluşturmakta özgürsünüz. Verilerinizin tamamen silinmesi için talep isteğinizi Qaree#0609 o sim etiketli ve ID'li kullanıcıya Direkt Mesaj atarak ya da destekdeprembilgi@gmail.com iletişim adresinden elektronik posta göndererek iletebilirsiniz. Talebiniz, alındıktan 30 gün içinde işleme alınır.
+Verilerinizin Silinimi Verilerinizin silinmesi hakkında talep oluşturmakta özgürsünüz. Verilerinizin tamamen silinmesi için talep isteğinizi Qaree#0609 o sim etiketli ve ID'li kullanıcıya Direkt Mesaj atarak ya da drizedestek@gmail.com iletişim adresinden elektronik posta göndererek iletebilirsiniz. Talebiniz, alındıktan 30 gün içinde işleme alınır.
